@@ -1,5 +1,5 @@
-# Hi there 👋, my name is Apratim
-## A developer from India 🇮🇳
+## Hi there 👋, my name is Apratim
+A developer from India 🇮🇳
 
 <p align="left">
 <a href="https://twitter.com/apratimmahata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apratimmahata" height="30" width="40" /></a>
