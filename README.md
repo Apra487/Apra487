@@ -1,9 +1,8 @@
-
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Apratim.</strong>
 </h2>
-<p><em>I seek to contribute to this world with my algorithms and abstractions. </em></p>
+<p align="left"><em>I seek to contribute to this world with my algorithms and abstractions. </em></p>
 <a target="_blank" href="https://www.linkedin.com/in/apratim-mahata/">
 <img src="https://img.shields.io/badge/-APRATIM-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/apratim-mahata/" alt="Linkedin Badge">
 </a>
@@ -13,9 +12,6 @@
 <a target="_blank" href="https://www.instagram.com/apratim266/">
 <img src="https://img.shields.io/badge/-APRATIM-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/apratim266/" alt="Instagram Badge">
 </a>
-<br>
-
-<br>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
