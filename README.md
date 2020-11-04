@@ -1,16 +1,13 @@
-## Hi there 👋,I'm Apratim
+## Hi there 👋, I'm Apratim
 
 ### A developer from India 🇮🇳
 
 -   🔭 I’m currently working on [BlackBoard-AutoLogger](https://github.com/Apra487/BlackBoard-AutoLogger)
-
--   👨‍💻 All of my projects are available at [https://github.com/Apra487](https://github.com/Apra487)
-
+-   🌱 I’m currently learning everything 🤣
+-   👨‍💻 All of my projects are available at [Github](https://github.com/Apra487)
 -   💬 Ask me about **javascript, nodejs, react**
-
 -   📫 How to reach me **apra487@gmail.com**
-
--   ⚡Fun fact: Love to play Basketball
+-   ⚡Fun fact: I love to play Basketball
 
 ### Connect with me:
 
