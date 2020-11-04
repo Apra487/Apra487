@@ -39,13 +39,13 @@ const Apra487 = {
 }
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apra487&show_icons=true)
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/Apra487/Apra487/issues/new"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 
-
+<a target="_blank" href="https://github.com/Apra487/Apra487/">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/Apra487&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="Apra487's vistors">
+</a>
 
 
