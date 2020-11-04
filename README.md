@@ -41,7 +41,7 @@ const Apra487 = {
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/Apra487/Apra487/issues/new"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/Apra487/Apra487/issues/new"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about :)</b> </em>
 
 
 <a target="_blank" href="https://github.com/Apra487/Apra487/">
