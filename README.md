@@ -3,17 +3,22 @@
 ### A developer from India 🇮🇳
 
 -   🔭 I’m currently working on [BlackBoard-AutoLogger](https://github.com/Apra487/BlackBoard-AutoLogger)
+
 -   🌱 I’m currently learning everything 🤣
+
 -   👨‍💻 All of my projects are available at [Github](https://github.com/Apra487)
+
 -   💬 Ask me about **javascript, nodejs, react**
+
 -   📫 How to reach me **apra487@gmail.com**
+
 -   ⚡Fun fact: I love to play Basketball
 
-### Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/apratimmahata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apratimmahata" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/apratim-mahata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apratim mahata" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apratim266/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apratim266" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
