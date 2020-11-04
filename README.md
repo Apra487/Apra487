@@ -4,8 +4,8 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Apratim.</strong>
 </h1>
 
-<p align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></p>
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/apratim-mahata/">
 <img src="https://img.shields.io/badge/-APRATIM-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/apratim-mahata/" alt="Linkedin Badge">
