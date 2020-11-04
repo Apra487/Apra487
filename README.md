@@ -15,7 +15,7 @@
 -   ⚡Fun fact: I love to play Basketball
 
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/apratimmahata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apratimmahata" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/apratim-mahata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apratim mahata" height="30" width="40" /></a>
 <a href="https://www.instagram.com/apratim266/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apratim266" height="30" width="40" /></a>
