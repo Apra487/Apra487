@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Apratim
+## Hi there 👋,I'm Apratim
 
 ### A developer from India 🇮🇳
 
