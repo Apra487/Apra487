@@ -1,11 +1,11 @@
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Apratim.</strong>
-</h1>
+<h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Apratim.</strong>
+</h2>
 
-<h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+<p align="left"><em>
+I seek to contribute to this world with my algorithms and abstractions.</em></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/apratim-mahata/">
 <img src="https://img.shields.io/badge/-APRATIM-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/apratim-mahata/" alt="Linkedin Badge">
@@ -20,7 +20,7 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 
 <br>
 
- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
 const Apra487 = {
