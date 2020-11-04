@@ -3,10 +3,7 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Apratim.</strong>
 </h2>
-
-<p align="left"><em>
-I seek to contribute to this world with my algorithms and abstractions.</em></p>
-
+<p><em>I seek to contribute to this world with my algorithms and abstractions. </em></p>
 <a target="_blank" href="https://www.linkedin.com/in/apratim-mahata/">
 <img src="https://img.shields.io/badge/-APRATIM-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/apratim-mahata/" alt="Linkedin Badge">
 </a>
