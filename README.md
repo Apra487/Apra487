@@ -30,7 +30,7 @@ const Apra487 = {
   codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "p5.js"],
   currentlylearning: ["TypeScript", "Deno","ml5.js"],
   toolsUsing: ["Vue", "FastAPI", "Sass", "AWS", "Bootstrap", "Firebase", "Figma"],
-  Skills: {
+  skills: {
       "Creative coding",
       "Fullstack Web Development"
   },
