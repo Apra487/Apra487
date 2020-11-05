@@ -21,7 +21,7 @@ const Apra487 = {
   education: "UnderGraduate",
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "p5.js"],
-  currentlylearning: ["TypeScript", "Deno","ml5.js"],
+  currentlylearning: ["TypeScript", "PWA","ml5.js"],
   toolsUsing: ["Vue", "FastAPI", "Sass", "AWS", "Bootstrap", "Firebase", "Figma"],
   skills: {
       "Creative coding",
