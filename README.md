@@ -20,9 +20,9 @@ const Apra487 = {
   pronouns: "he" | "him",
   education: "UnderGraduate",
   otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "p5.js"],
+  codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "Express.js", "p5.js"],
   currentlylearning: ["TypeScript", "PWA","ml5.js"],
-  toolsUsing: ["Sass", "AWS", "Bootstrap", "Firebase", "Figma"],
+  toolsUsing: ["Scss", "AWS", "Bootstrap", "Firebase", "Figma"],
   skills: {
       "Creative coding",
       "Fullstack Web Development"
