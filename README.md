@@ -22,7 +22,7 @@ const Apra487 = {
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "Express.js", "p5.js"],
   currentlylearning: ["TypeScript", "PWA","ml5.js"],
-  toolsUsing: ["Scss", "AWS", "Bootstrap", "Firebase", "Figma"],
+  toolsUsing: [ "AWS", "Bootstrap", "Firebase", "Figma"],
   skills: {
       "Creative coding",
       "Fullstack Web Development"
