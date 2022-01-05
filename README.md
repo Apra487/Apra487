@@ -20,12 +20,12 @@ const Apra487 = {
   pronouns: "he" | "him",
   education: "UnderGraduate",
   otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Node.js", "Bash", "React", "Express.js", "p5.js"],
-  currentlylearning: ["TypeScript", "PWA","ml5.js"],
+  codesIn: ["TypeScript", "Javascript","Solidity", "HTML", "CSS", "Node.js", "Bash", "React","Next.js", "Express.js", "p5.js"],
+  currentlylearning: ["Rust", "Remix"],
   toolsUsing: [ "AWS", "GCP", "Bootstrap", "Firebase", "Figma"],
   skills: {
       "Creative coding",
-      "Fullstack Web Development"
+      "Fullstack Web Development",
   },
   availableForHire: true,
   challenge: "I am doing the #100DaysOfCode challenge"
