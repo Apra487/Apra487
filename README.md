@@ -28,7 +28,6 @@ const Apra487 = {
       "Fullstack Web Development",
   },
   availableForHire: true,
-  challenge: "I am doing the #100DaysOfCode challenge"
 }
 ```
 
