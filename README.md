@@ -9,9 +9,9 @@
 <a target="_blank" href="https://twitter.com/ApratimMahata">
 <img src="https://img.shields.io/badge/APRATIM-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ApratimMahata" alt="Twitter Badge">
 </a>
-<a target="_blank" href="https://www.instagram.com/apratim266/">
+<!-- <a target="_blank" href="https://www.instagram.com/apratim266/">
 <img src="https://img.shields.io/badge/-APRATIM-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/apratim266/" alt="Instagram Badge">
-</a>
+</a> -->
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
